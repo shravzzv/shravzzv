@@ -2,4 +2,4 @@
 - 👀 I’m interested in JavaScript and web applications.
 - 🌱 I’m currently learning Next Js with React.
 - 💞️ I’m looking to collaborate on any fun js based projects.
-- 📫 How to reach me : @shravzv on twitter.
+- 📪 [Reach me on twitter](https://twitter.com/shravzzv)
