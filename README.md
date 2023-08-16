@@ -9,7 +9,7 @@ To have a strong understanding of programming fundamentals from the first princi
 ## Technologies I'm familiar with
 
 - HTML, JS, CSS : Fighting with them since Nov 2021
-- React : MY JS framework of choice
+- React : MY JS library of choice
 - Next : My full-stack framework of choice
 - Node : My backend library of choice
 - MongoDb : Database I'm good with
