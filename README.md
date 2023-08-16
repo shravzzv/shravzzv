@@ -1,7 +1,6 @@
 # Hi there, I'm Sai Shravan!👋
 
-Ahoy there, fellow adventurers of the digital realm! Welcome! I proudly sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination. 
-Join me on this thrilling quest to create web marvels that will make unicorns dance with joy and pixels giggle with delight. Together, we shall conquer bugs, surf the waves of creativity, and bring smiles to users' faces. So, grab your favorite code editor, don your virtual cape, and let's set sail towards the horizon of awesomeness!
+Ahoy there, fellow adventurers of the digital realm! Welcome! I sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination.
 
 ## What I'm currently learning
 
@@ -15,3 +14,11 @@ To have a strong understanding of programming fundamentals from the first princi
 - Node : My backend library of choice
 - MongoDb : Database I'm good with
 - PostGre SQL : Database I'm learning
+
+## Some other interesting things
+
+- I have a 130 day streak on Duolingo as of 16-Aug-2023
+- Before 2021, I was a medical student at the Rajiv Institue of Medical Sciences in Adilabad, IN
+- Average typing speed of 65 WPM on typing.com
+- I love Notion. Take a look at my template in the official [Notion Templates Gallery](https://www.notion.so/@shravzzv)
+- I'm 23 and I'm looking to land my first full stack developer job at a startup. Contact me if you're interested.
