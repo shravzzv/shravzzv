@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Shravan!👋
 
-Ahoy there, fellow adventurers of the digital realm! Welcome! I sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination.
+Ahoy, fellow adventurers of the digital realm! Welcome! I sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination.
 
 ## What I'm currently learning
 
