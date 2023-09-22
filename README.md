@@ -17,10 +17,9 @@ To have a strong understanding of programming fundamentals from the first princi
 
 ## Some other interesting things
 
-- I have a 130 day streak on Duolingo as of 16-Aug-2023
+- I have a 165 day streak on Duolingo as of 21-Sept-2023
 - Before 2021, I was a medical student at the Rajiv Institue of Medical Sciences in Adilabad, IN
 - Average typing speed of 65 WPM on typing.com
 - I love Notion. Take a look at my templates in the official [Notion Templates Gallery](https://www.notion.so/@shravzzv)
 - I'm 23 and I'm looking to land my first full stack developer job at a startup. Contact me if you're interested.
-- My best project till date is the marketing site for my [Notion tasks template](https://personalizeit.vercel.app).
 
