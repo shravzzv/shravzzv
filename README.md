@@ -2,6 +2,8 @@
 
 Ahoy, fellow adventurers of the digital realm! Welcome! I sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination.
 
+![CodeWars](https://www.codewars.com/users/shravzzv/badges/small)
+
 ## What I'm currently learning
 
 To have a strong understanding of programming fundamentals from the first principles I'm using [The Odin Project](https://www.theodinproject.com/dashboard) curriculum.
