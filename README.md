@@ -65,3 +65,5 @@ I'm always excited to collaborate, share knowledge, and learn from fellow develo
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shravzzv)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shravzzv)
+
+[Download my resume](https://drive.google.com/file/d/1DeGVQOsfKkqHQn1g_kOj7PVpgflIUkHg/view)
