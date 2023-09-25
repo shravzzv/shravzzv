@@ -1,27 +1,67 @@
-# Hi there, I'm Sai Shravan!👋
+# Hi, I'm Sai Shravan
 
-Ahoy, fellow adventurers of the digital realm! Welcome! I sail the seas of software as a full-stack JavaScript developer, crafting magnificent web experiences with a touch of whimsy. Whether you have inquiries, brilliant suggestions, or a burning desire to embark on a collaborative journey, fear not! Drop me a line, and let's unravel the mysteries of code together, fueled by laughter and limitless imagination.
+![GitHub followers](https://img.shields.io/github/followers/shravzzv)
+![GitHub User's stars](https://img.shields.io/github/stars/shravzzv)
+![codewars](https://www.codewars.com/users/shravzzv/badges/micro)
 
-![CodeWars](https://www.codewars.com/users/shravzzv/badges/small)
+Greetings fellow developers and curious minds!
 
-## What I'm currently learning
+## About Me
 
-To have a strong understanding of programming fundamentals from the first principles I'm using [The Odin Project](https://www.theodinproject.com/dashboard) curriculum.
+Hey there, I'm Sai Shravan, and I'm on a mission to master the art of web development and entrepreneurship. Based in the tranquil town of Chilkur, Telangana, I bring a unique blend of passion, determination, and a thirst for knowledge to the world of programming.
 
-## Technologies I'm familiar with
+Whether I'm crafting clean and responsive web applications or diving deep into the intricacies of JavaScript, I approach each challenge with enthusiasm and a scientific mindset. I'm not just learning to code; I'm cultivating the mindset of an entrepreneur, ready to bring innovative ideas to life.
 
-- HTML, JS, CSS : Fighting with them since Nov 2021
-- React : MY JS library of choice
-- Next : My full-stack framework of choice
-- Node : My backend library of choice
-- MongoDb : Database I'm good with
-- PostGre SQL : Database I'm learning
+My ultimate goal in life is simple: to be happy and to be the best friend I can be to myself. I'm on a journey of self-discovery and self-improvement, and I'm excited to share this adventure with fellow developers and learners.
 
-## Some other interesting things
+Let's connect, collaborate, and code our way to success. Join me on this exciting journey!
 
-- I have a 165 day streak on Duolingo as of 21-Sept-2023
-- Before 2021, I was a medical student at the Rajiv Institue of Medical Sciences in Adilabad, IN
-- Average typing speed of 65 WPM on typing.com
-- I love Notion. Take a look at my templates in the official [Notion Templates Gallery](https://www.notion.so/@shravzzv)
-- I'm 23 and I'm looking to land my first full stack developer job at a startup. Contact me if you're interested.
+## Currently learning
 
+To have a strong understanding of programming fundamentals from the first principles I'm using The Odin Project curriculum.
+
+![The Odin Project](https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png)
+
+> ### Progress
+
+- [x] Foundations
+- [x] Intermediate HTML and CSS
+- [ ] JavaScript **34%**
+- [ ] Advanced HTML and CSS
+- [ ] React
+- [ ] Node.js
+- [ ] Getting Hired
+
+While revisiting these fundamental concepts, I've experienced significant growth and a boost in confidence. Although I embarked on my programming journey back in 2021, diving deep into this curriculum has provided me with fresh insights and a solid grounding in these core topics. It's remarkable how revisiting the basics has enhanced my skills and understanding, making me even more enthusiastic about my programming adventures.
+
+## My Arsenal of Tools
+
+In my ever-expanding toolkit, I've wielded:
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+
+And I'm no stranger to:
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongo)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+## Let's Connect!
+
+I'm always excited to collaborate, share knowledge, and learn from fellow developers. Feel free to connect with me on:
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shravzzv)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shravzzv)
