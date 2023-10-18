@@ -26,7 +26,7 @@ To have a strong understanding of programming fundamentals from the first princi
 
 - [x] Foundations
 - [x] Intermediate HTML and CSS
-- [ ] JavaScript **34%**
+- [ ] JavaScript **53%**
 - [ ] Advanced HTML and CSS
 - [ ] React
 - [ ] Node.js
