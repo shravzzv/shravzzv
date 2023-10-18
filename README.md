@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/shravzzv)
 ![GitHub User's stars](https://img.shields.io/github/stars/shravzzv)
 ![codewars](https://www.codewars.com/users/shravzzv/badges/micro)
+[![Static Badge](https://img.shields.io/badge/Download%20my%20resume-8A2BE2)](https://drive.google.com/file/d/1DeGVQOsfKkqHQn1g_kOj7PVpgflIUkHg/view)
 
 Greetings fellow developers and curious minds!
 
@@ -14,11 +15,9 @@ Whether I'm crafting clean and responsive web applications or diving deep into t
 
 My ultimate goal in life is simple: to be happy and to be the best friend I can be to myself. I'm on a journey of self-discovery and self-improvement, and I'm excited to share this adventure with fellow developers and learners.
 
-Let's connect, collaborate, and code our way to success. Join me on this exciting journey!
-
 ## Currently learning
 
-To have a strong understanding of programming fundamentals from the first principles I'm using The Odin Project curriculum.
+To have a strong understanding of programming from the first principles I'm using [The Odin Project](https://www.theodinproject.com) curriculum.
 
 ![The Odin Project](https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png)
 
@@ -32,7 +31,7 @@ To have a strong understanding of programming fundamentals from the first princi
 - [ ] Node.js
 - [ ] Getting Hired
 
-While revisiting these fundamental concepts, I've experienced significant growth and a boost in confidence. Although I embarked on my programming journey back in 2021, diving deep into this curriculum has provided me with fresh insights and a solid grounding in these core topics. It's remarkable how revisiting the basics has enhanced my skills and understanding, making me even more enthusiastic about my programming adventures.
+While revisiting these fundamental concepts, I've experienced significant growth and a boost in confidence. Although I embarked on my programming journey back in 2021, diving deep into this curriculum has provided me with fresh insights and a solid grounding in these core topics.
 
 ## My Arsenal of Tools
 
@@ -61,9 +60,7 @@ And I'm no stranger to:
 
 ## Let's Connect!
 
-I'm always excited to collaborate, share knowledge, and learn from fellow developers. Feel free to connect with me on:
+I'm always excited to collaborate, share knowledge, and learn. Feel free to connect with me on:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shravzzv)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shravzzv)
-
-[Download my resume](https://drive.google.com/file/d/1DeGVQOsfKkqHQn1g_kOj7PVpgflIUkHg/view)
