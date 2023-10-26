@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/shravzzv)
 ![GitHub User's stars](https://img.shields.io/github/stars/shravzzv)
 [![codewars](https://www.codewars.com/users/shravzzv/badges/micro)](https://www.codewars.com/users/shravzzv)
-[![Static Badge](https://img.shields.io/badge/Download%20my%20resume-8A2BE2)](https://drive.google.com/file/d/1DeGVQOsfKkqHQn1g_kOj7PVpgflIUkHg/view)
+[![Static Badge](https://img.shields.io/badge/Download%20my%20resume-8A2BE2)](https://docs.google.com/document/d/1-wTke5DdISAxMTnOUOMP1EWfoQERiF4DtzSRi9RAH5w/edit?usp=sharing)
 
 Greetings fellow developers and curious minds!
 
