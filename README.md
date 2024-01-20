@@ -26,8 +26,8 @@ To have a strong understanding of programming from the first principles I'm usin
 - [x] Foundations
 - [x] Intermediate HTML and CSS
 - [x] JavaScript
-- [ ] Advanced HTML and CSS
-- [ ] React
+- [x] Advanced HTML and CSS
+- [ ] React 34%
 - [ ] Node.js
 - [ ] Getting Hired
 
