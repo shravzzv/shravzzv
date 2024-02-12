@@ -64,3 +64,7 @@ I'm always excited to collaborate, share knowledge, and learn. Feel free to conn
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shravzzv)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shravzzv)
+
+And I am learning Data Structures and Algorithms using Leetcode:
+
+[![shravzzv's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shravzzv&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
