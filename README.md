@@ -13,8 +13,6 @@ Hey there, I'm Sai Shravan, and I'm on a mission to master the art of web develo
 
 Whether I'm crafting clean and responsive web applications or diving deep into the intricacies of JavaScript, I approach each challenge with enthusiasm and a scientific mindset. I'm not just learning to code; I'm cultivating the mindset of an entrepreneur, ready to bring innovative ideas to life.
 
-My ultimate goal in life is simple: to be happy and to be the best friend I can be to myself. I'm on a journey of self-discovery and self-improvement, and I'm excited to share this adventure with fellow developers and learners.
-
 ## Currently learning
 
 To have a strong understanding of programming from the first principles I'm using [The Odin Project](https://www.theodinproject.com) curriculum.
