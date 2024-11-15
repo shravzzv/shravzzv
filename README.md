@@ -25,7 +25,8 @@ To have a strong understanding of programming from the first principles I'm usin
 - [x] JavaScript
 - [x] Advanced HTML and CSS
 - [x] React
-- [ ] Node.js **78%**
+- [ ] Databases **33%**
+- [ ] Node.js **86%**
 - [ ] Getting Hired
 
 While revisiting these fundamental concepts, I've experienced significant growth and a boost in confidence. Although I embarked on my programming journey back in 2021, diving deep into this curriculum has provided me with fresh insights and a solid grounding in these core topics.
