@@ -66,3 +66,5 @@ I'm always excited to collaborate, share knowledge, and learn. Feel free to conn
 And I am learning Data Structures and Algorithms using Leetcode:
 
 [![shravzzv's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shravzzv&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shravzzv)
