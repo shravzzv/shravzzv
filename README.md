@@ -8,7 +8,7 @@ Greetings fellow developers and curious minds!
 
 ## About Me
 
-Hey there, I'm Sai Shravan, and I'm on a mission to master the art of web development and entrepreneurship. Based in the tranquil town of Chilkur, Telangana, I bring a unique blend of passion, determination, and a thirst for knowledge to the world of programming.
+Hey there, I'm Sai Shravan, and I'm on a mission to master the art of web development and entrepreneurship. I bring a unique blend of passion, determination, and a thirst for knowledge to the world of programming.
 
 Whether I'm crafting clean and responsive web applications or diving deep into the intricacies of JavaScript, I approach each challenge with enthusiasm and a scientific mindset. I'm not just learning to code; I'm cultivating the mindset of an entrepreneur, ready to bring innovative ideas to life.
 
