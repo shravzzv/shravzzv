@@ -36,6 +36,7 @@ And I'm no stranger to:
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 ## Let's Connect!
 
