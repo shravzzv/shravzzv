@@ -37,10 +37,3 @@ And I'm no stranger to:
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
-
-## Let's Connect!
-
-I'm always excited to collaborate, share knowledge, and learn. Feel free to connect with me on:
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shravzzv)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shravzzv)
