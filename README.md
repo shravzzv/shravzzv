@@ -1,9 +1,5 @@
 # Hi, I'm Sai Shravan
 
-![GitHub followers](https://img.shields.io/github/followers/shravzzv)
-![GitHub User's stars](https://img.shields.io/github/stars/shravzzv)
-[![codewars](https://www.codewars.com/users/shravzzv/badges/micro)](https://www.codewars.com/users/shravzzv)
-
 Greetings fellow developers and curious minds!
 
 ## About Me
